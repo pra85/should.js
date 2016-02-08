@@ -16,7 +16,7 @@ It is also possible to use should.js without getter (it will not even try to ext
 
 ### Upgrading instructions
 
-Please check [wiki page](https://github.com/shouldjs/should.js/wiki/Breaking-changes) for upgrading instructions.
+Please check [wiki page](https://githucb.com/shouldjs/should.js/wiki/Breaking-changes) for upgrading instructions.
 
 ### FAQ
 
@@ -72,7 +72,7 @@ someAsyncTask(foo, function(err, result){
 
 ## In browser
 
-Well, even when browsers by complains of authors has 100% es5 support, it does not mean it has no bugs. Please see [wiki](https://github.com/shouldjs/should.js/wiki/Known-Bugs) for known bugs.
+Well, even when browsers by complaints of authors have 100% es5 support, it does not mean it has no bugs. Please see [wiki](https://github.com/shouldjs/should.js/wiki/Known-Bugs) for known bugs.
 
 If you want to use _should_ in browser, use the `should.js` file in the root of this repository, or build it yourself. To build a fresh version:
 
